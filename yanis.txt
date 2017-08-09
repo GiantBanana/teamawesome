@@ -1,3 +1,4 @@
+<<<<<<< 971d42ca1c1c9fd7f690eb0bb302e72a47feb58a
                                           <xeee..                             
                                       ueeeeeu..^"*$e.                         
                                ur d$$$$$$$$$$$$$$Nu "*Nu                      
@@ -32,3 +33,6 @@
                 $ $ $ $o$ $ $  $  $ $ $oo  $ $ $o$ $ $ $ $o$ $ $  $ 
 
 not mine doe
+=======
+
+>>>>>>> sdfsdfsd
